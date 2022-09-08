@@ -1,4 +1,4 @@
-## Wheat Segregation
+## Wheat Seed Segregation
 Wheat segregation is a very important task in agricultural domain for many industry using wheat as row material for making different products. Here in this project we have used a dataset which contains seven variables for three distinct types of wheat kernels: (Kama, Rosa, Canadian) designated as numerical variables 1, 2 & 3 respectively. The seven seed variables are:
 
 - Area
