@@ -1,0 +1,27 @@
+columns:
+  Area: float
+  Perimeter: float
+  Compactness: float
+  Kernel_Length: float
+  Kernel_Width: float
+  Asymmetry_Coeff: float
+  Kernel_Groove: float
+  Type: int
+
+numerical_columns:
+  - Area
+  - Perimeter
+  - Compactness
+  - Kernel_Length
+  - Kernel_Width
+  - Asymmetry_Coeff
+  - Kernel_Groove
+
+target_column: Type
+
+
+
+  
+
+
+
